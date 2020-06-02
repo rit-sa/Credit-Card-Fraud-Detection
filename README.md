@@ -23,6 +23,10 @@ The different ways of fraudulent activities are:
 
 • Skimming
 
+**Data Source**
+
+Kaggle: [https://www.kaggle.com/mlg-ulb/creditcardfraud](https://www.kaggle.com/mlg-ulb/creditcardfraud)
+
 **Data Dictionary**
 
 Out of a total of 2,84,807 transactions, 492 were fraudulent. This data set is highly unbalanced, with the positive class (frauds) accounting for 0.172% of the total transactions.
